@@ -89,9 +89,9 @@ export const config = {
     // Customize the Images in page, use a valid URL.
 
     // vertical image to use.
-    verticalImage: 'https://imagecdn.app/v1/images/https%3A%2F%2Fi.imgur.com%2FmTgHjNe.png?format=webp', 
+    verticalImage: 'https://media.discordapp.net/attachments/1010626093146972320/1240120747209392239/pink_1st.png?ex=664567f2&is=66441672&hm=9278c0c8eabbe5a07de0da0330e830ad3ac2c6147f918659d2dde2378405cd53&=&format=webp&quality=lossless&width=242&height=700', 
     // horizontal image to use.
-    horizontalImage: 'https://imagecdn.app/v1/images/https%3A%2F%2Fi.imgur.com%2FQpSleoF.png?format=webp', 
+    horizontalImage: 'https://cdn.discordapp.com/attachments/1010626093146972320/1240120767694377040/pink_2nd.png?ex=664567f7&is=66441677&hm=20b5fb016da5307ac896b719f771de6036e65a41ffda39ad856ecec13cd5f2ea&', 
 }
                                            
                                            
